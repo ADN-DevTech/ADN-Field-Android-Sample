@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+     android:background="#0099cc"
+     android:weightSum="3" >
+
+    <ImageButton
+        android:id="@+id/img_btn_login"
+        android:layout_width="99dp"
+        android:layout_height="99dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/log_in" />
+
+    <ImageButton
+        android:id="@+id/img_btn_proj"
+        android:layout_width="99dp"
+        android:layout_height="99dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/project" 
+        />
+    
+     <ImageButton
+        android:id="@+id/img_btn_filter"
+        android:layout_width="99dp"
+        android:layout_height="99dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_filter" 
+        />
+
+    <ImageButton
+        android:id="@+id/img_btn_sync"
+        android:layout_width="99dp"
+        android:layout_height="99dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/sync" 
+        />
+
+</LinearLayout>

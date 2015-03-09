@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADNField360Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_attachment">AttachmentActivity</string>     
+    
+    <string name="title_main_activity">ADN Field 360 Demo</string>
+    <string name="title_ask_login">		Please Login</string>
+    <string name="title_ask_sel_proj">		Please Select Project</string>
+    <string name="title_ask_sync">		Please [Sync-Download] to get the latest issues</string>
+    <string name="title_filter_dialog">Filter of Issue</string>    
+    <string name="title_sync_dialog">Syncronize with Field</string>
+    
+     
+    <string name="msg_sync_dialog_download">Download: \n Sync all issues from Field</string>
+    <string name="msg_sync_dialog_upload">Upload:  \n Sync updated issues to Field</string>
+    <string name="msg_input_user_info">Please Input User Name and Password!</string>
+ 
+      <string name="msg_prog_login_async">Login...</string>
+      <string name="msg_prog_logout_async">Logout...</string>
+      <string name="msg_prog_company_async">Getting company information of the project...</string>
+        <string name="msg_prog_download_async">Get Issues from Field...</string>
+        <string name="msg_prog_upload_async">Update Issues to Field...</string>
+        <string name="msg_prog_get_proj_async">Get Projects Info from Field...</string>
+         <string name="msg_prog_get_att_async">Getting attachments of the issue...</string>
+      
+
+       
+      <string name="msg_proj_same_projects">The same project is selected. Please Sync-Download to get the newest issues!</string>
+      <string name="msg_ask_login">Please Login</string>
+       <string name="msg_lget_att_fail">Failed to get attachment</string>
+      
+          
+            			
+</resources>
